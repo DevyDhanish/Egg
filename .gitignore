@@ -1,0 +1,9 @@
+Library/
+Logs/
+Build/
+UserSettings/
+.vs/
+.vsconfig
+obj/
+*.meta
+Temp/
